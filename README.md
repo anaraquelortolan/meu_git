@@ -10,12 +10,25 @@ Você foi alocado(a) em um time da Indicium que está trabalhando atualmente jun
 
 Seu objetivo é desenvolver um modelo de previsão de preços a partir do dataset oferecido, e avaliar tal modelo utilizando as métricas de avaliação que mais fazem sentido para o problema. O uso de outras fontes de dados além do dataset é permitido (e encorajado). Você poderá encontrar em anexo um dicionário dos dados.
 
-### Linguagen
-Python
+### Linguagem
+Python 3.9.6
 
 ### Fases
 
-Definição do Problema;
-Conhecendo os Dados;
-Preparação dos Dados (seleção de features);
-Criação do Modelo de Machine Learning (Baseline, Regressão Linear, Decision Tree, Random Forest, Avaliação de Métricas).
+1. Definição do Problema;
+2. Conhecendo os Dados;
+3. Preparação dos Dados (seleção de features);
+4. Criação do Modelo de Machine Learning (Regressão Linear, Decision Tree, Random Forest);
+5. Avaliação de métricas;
+6. Hipóteses de negócio.
+
+### Pacotes utilizados:
+
+pandas 
+matplotlib
+seaborn 
+folium
+statsmodels
+Counter
+re
+sklearn 
