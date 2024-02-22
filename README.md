@@ -18,7 +18,7 @@ Python 3.9.6
 1. Definição do Problema;
 2. Conhecendo os Dados;
 3. Preparação dos Dados (seleção de features);
-4. Criação do Modelo de Machine Learning (Regressão Linear, Decision Tree, Random Forest);
+4. Criação do Modelo de Machine Learning (Regressão Linear, Decision Tree, Random Forest, XGboost);
 5. Avaliação de métricas;
 6. Hipóteses de negócio.
 
@@ -32,3 +32,4 @@ statsmodels
 Counter
 re
 sklearn 
+xgboost
